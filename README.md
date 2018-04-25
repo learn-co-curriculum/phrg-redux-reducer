@@ -52,3 +52,4 @@ This would translate to the same English, "Return a new object that contains all
 - [Mozilla findIndex](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex)
 - [Redux Documentation](http://redux.js.org/docs/basics/Reducers.html)
 <p class='util--hide'>View <a href='https://learn.co/lessons/redux-reducer'>Redux Reducer</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Reducers Lab</p>
